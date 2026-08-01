@@ -10,9 +10,6 @@ Bash (Bourne Again SHell)
 cURL (Client for URLs) command-line tool
 Usage Clone the repository:
 
-git clone https://github.com/giruu/Increase-Instagram-follower.git
-Navigate to the cloned directory:
-
 cd Increase-Instagram-follower
 Run the script:
 
